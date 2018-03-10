@@ -1,6 +1,8 @@
 # probot-test-repo
 
-> a GitHub App built with [probot](https://github.com/probot/probot) that 
+A repo to test probot app
+
+> a GitHub App built with [probot](https://github.com/probot/probot) that
 
 ## Setup
 
